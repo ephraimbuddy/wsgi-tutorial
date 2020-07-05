@@ -1,0 +1,3 @@
+[run]
+source = wsgi_tutorial
+omit = wsgi_tutorial/test*
